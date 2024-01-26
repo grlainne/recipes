@@ -59,6 +59,7 @@ Ingredients:
 - 2 cloves garlic, minced
 - Salt and pepper to taste
 - 1 jar (24 oz) spaghetti sauce
+- 3 tablespoons finely chopped basil
 
 Instructions:
 1. Cook spaghetti according to package instructions.
@@ -101,7 +102,7 @@ Ingredients:
 - 3/4 cup brown sugar
 - 2 eggs
 - 2 tsp vanilla extract
-- 2 cups semisweet chocolate chips
+- 4 cups semisweet chocolate chips
 
 Instructions:
 1. Preheat oven to 375°F (190°C).
@@ -113,3 +114,28 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Leche Flan
+
+Ingredients:
+- 10 large eggs
+- 1 can condensed milk
+- 1 cup fresh milk or evaporated milk
+- 1 cup granulated sugar
+- 1 teaspoon vanilla extract
+
+Instructions
+1. Using all the eggs, separate the yolk from the egg white (only egg yolks will be used).
+2. Place the egg yolks in a big bowl then beat them using a fork or an egg beater.
+3. Add the condensed milk and mix thoroughly.
+4. Pour-in the fresh milk and Vanilla. Mix well.
+5. Put the mold (llanera) on top of the stove and heat using low fire.
+6. Put-in the granulated sugar on the mold and mix thoroughly until the solid sugar turns into liquid (caramel) having a light brown color. 
+7. Spread the caramel (liquid sugar) evenly on the flat side of the mold.
+8. Wait for 5 minutes then pour the egg yolk and milk mixture on the mold.
+9. Cover the top of the mold using an Aluminum foil.
+10. Steam the mold with egg and milk mixture for 30 to 35 minutes.
+11. After steaming, let the temperature cool down then refrigerate.
+
+
+
